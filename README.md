@@ -1,0 +1,1 @@
+This project is using AI to predict crab age. It is using First Random Forest Regression Model from scikit-learn, TensorFlow Sequential groups a linear stack of layers into a Model with ‘Adam’ optimizer, Third  Linear Regression Model.
